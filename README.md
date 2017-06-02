@@ -4,6 +4,7 @@ Embedded_System_Course_Experiment
 # 嵌入式系统实验
     基于ARM开发板：LPC2378
     外部晶振：12M
+    使用外设：GPIO、TIMER0、UART，ADC，DAC
 
 # 内容
     三次课程实验（课程必做题）
