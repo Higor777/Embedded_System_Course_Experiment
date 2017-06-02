@@ -16,5 +16,8 @@ Embedded_System_Course_Experiment
     各实验MDK Keil工程文件
     实验报告
 
+# LPC2378开发板
+![LPC2378开发板](https://github.com/Higor777/Embedded_System_Course_Experiment/blob/master/LPC2378.jpg "LPC2378开发板")
+
 # 许可协议
 * [The MIT License](https://github.com/Higor777/Embedded_System_Course_Experiment/blob/master/LICENSE)
